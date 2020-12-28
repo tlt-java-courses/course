@@ -1,1 +1,15 @@
 theme: jekyll-theme-slate
+title: "Курс обучения программированию на Java"
+baseurl: "/course/"
+about: "/course/about"
+news: "/course/news"
+contenturl: "/course/content"
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+host: 0.0.0.0
+materialsurl: "/course/materials/"
+badges: "/course/badges/"
+google_analytics: UA-144330579-1
+plugins:
+  - jekyll-seo-tag

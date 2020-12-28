@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://tlt-java-courses.github.io/course/</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/about</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/news</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/content</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/general/education_start</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/general/grow_intro</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/general/learn_intro</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/general/practical_tasks_completing_rules</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/general/typical_mistakes</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/general/practical_tasks_evaluation_rules</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/general/telegram_join</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/general/faq</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/general/junior_expectations</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/git/git</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/java_intro/java_intro</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/java_basics/java_basics</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/oop/oop</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/data_handling/data_handling</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/design_basics/design_basics</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/20_matches/20_matches</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/caesar_cipher/caesar_cipher</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/collections/collections</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/exceptions/exceptions</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/calculator/calculator</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/maven/maven</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/unit_testing/unit_testing</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/spring_framework/spring_framework</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/db_basics/db_basics</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/jdbc/jdbc</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/http/http</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/web_basics/web_basics</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/spring_mvc_framework/spring_mvc_framework</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/final_project/final_project</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/final_interview/final_interview</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/next_steps/next_steps</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/java_intro/Intelliji_idea_shortcuts.pdf</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/java_intro/hello-world-tutorial</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/java_basics/how_to_read_stacktraces.html</loc>
+  <lastmod>2020-02-03T07:14:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/spring_framework/presentations/Spring%20Core.pptx</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/db_basics/presentations/%D0%A0%D0%91%D0%94%20%D0%B8%20SQL_2018.pptx</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/db_basics/presentations/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%91%D0%94.pptx</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/db_basics/presentations/%D0%9E%D0%98%D0%A2%20=%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2007%D0%B1%20=%20%D0%AF%D0%B7%D1%8B%D0%BA%20SQL.pdf</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/jdbc/presentations/JDBC.pptx</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/http/presentations/HTTP.pdf</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/web_basics/presentations/HTML%20Basics.pptx</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/web_basics/presentations/JS%20Core.pptx</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/web_basics/presentations/CSS%20Basics.pptx</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/spring_mvc_framework/presentations/spring_mvc.pptx</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tlt-java-courses.github.io/course/materials/spring_mvc_framework/books/spring_for_professionals.pdf</loc>
+  <lastmod>2020-02-03T07:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

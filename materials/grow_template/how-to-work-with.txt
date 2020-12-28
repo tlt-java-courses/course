@@ -1,0 +1,15 @@
+Ссылка для автоматического добавления шаблона в Grow
+https://grow.by/invite/AddTemplate/18199?mentorId=69,381,11349,20288,6401,20289&tag=izhevsk,java,basic,g1
+
+https://grow.telescopeai.com/templateView/18199 - шаблон
+
+18199 - id шаблона
+
+69 - id ментора - Ilia Isakhin
+381 - id ментора - Timur Sokolov - Vk
+11349 - id ментора - Timur Sokolov - epam email
+20288 - id ментора - Nataliia Sidorova
+6401 - id ментора - Mariia Vyguzova
+20289 - id ментора - Anton Yuminov
+
+izhevsk,java,basic,g1 - теги

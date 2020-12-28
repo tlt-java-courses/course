@@ -1,0 +1,278 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 18px;
+  color: #000000;
+}
+
+blockquote {
+  border-left: 4px solid #38c2d6;
+  font-style: italic;
+  color: #555;
+}
+
+#project_title {
+  text-align: center;
+}
+#project_title a {
+  color: white;
+  text-decoration: none;
+}
+
+#project_title a:hover {
+  text-decoration: none;
+}
+
+#project_title a:hover span.epam-style-bracket {
+  color: #47e7ff;
+}
+
+#main_content {
+  max-width: 900px;
+}
+
+.inner {
+  max-width: 900px;
+}
+
+#main_content_wrap {
+  min-height: 800px;
+}
+
+#forkme_banner {
+  display: none;
+}
+
+#main_content_wrap {
+  background: #fdfdfd;
+}
+
+img {
+  max-width: 840px;
+}
+
+#header_wrap .inner {
+  padding: 30px 10px 0px 10px;
+}
+
+header span.epam-style-bracket {
+  color: #37c2d7;
+}
+
+/** Менюшка **/
+#mainmenu {
+  position: relative;
+  background: linear-gradient(to top, #373737, #323232);
+  height: 40px;
+  margin-top: 30px;
+  padding: 0;
+  width: 100%;
+  z-index: 10
+}
+#mainmenu ul {
+  clear: left;
+  position: relative;
+  right: 50%;
+  height: 40px;
+  float: right;
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/** Основные пункты **/
+#mainmenu > ul > li {
+  position: relative;
+  left: 50%;
+  float: left;
+  height: 40px;
+  padding: 0;
+  margin: 0;
+}
+#mainmenu > ul > li > a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding: 0 15px;
+  line-height: 40px;
+}
+#mainmenu > ul > li:first-child > a {
+  border: none;
+}
+#mainmenu > ul > li:hover > a, #mainmenu > ul > li.hover > a, #mainmenu > ul > li.active > a {
+  color: #fff;
+}
+#mainmenu > ul > li:hover {
+  background: #404040;
+}
+
+/* Выпадающие подпункты */
+#mainmenu ul li ul {
+  position: absolute;
+  left: 0;
+  top: 40px;
+  display: none;
+  list-style: none;
+  visibility: hidden;
+  padding: 0;
+  margin: 0;
+  width: 350px;
+}
+#mainmenu > ul > li ul li {
+  background-color: #404040;
+  position: relative;
+  left: 0;
+  display: list-item;
+  float: none;
+  height: auto;
+  margin: 0;
+  text-align: left;
+}
+#mainmenu ul li ul li a {
+  border-bottom: 1px solid #464646;
+  display: block;
+  color: #fff;
+  padding: 5px 15px;
+  text-decoration: none;
+}
+#mainmenu ul li ul li.parent a {
+  position: relative;
+}
+#mainmenu ul li ul > li.parent > a::before {
+  border-top: 1px solid #fff;
+  order-right: 1px solid #fff;
+  ontent: "";
+  display: block;
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%) rotate(45deg);
+  height: 6px;
+  width: 6px;
+}
+#mainmenu ul li ul li:hover {
+  background-color: #333333;
+}
+#mainmenu ul li:hover ul, #mainmenu ul li.hover ul {
+  display: block;
+}
+#mainmenu ul li:hover > ul {
+  opacity: 1;
+  visibility: visible;
+  margin: 0;
+}
+#mainmenu ul li ul li ul {
+  top: 0;
+  left: 200px;
+  margin: 0 0 0 20px;
+  width: 180px;
+}
+
+@media screen and (max-width: 850px) {
+    #mainmenu {
+      height: auto;
+      background: linear-gradient(to top, #373737, #2b2b2b);
+    }
+
+    #mainmenu ul {
+      right: auto;
+      height: auto;
+      float: none;
+    }
+
+    #mainmenu > ul > li {
+      left: auto;
+      float: none;
+    }
+
+    #mainmenu ul li:hover > ul {
+      display: none;
+    }
+}
+
+/** Рейтинг **/
+#rating_table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+  counter-reset: rowNumber -1;
+}
+
+#rating_table th, #rating_table td {
+  text-align: left;
+  padding: 12px;
+}
+
+#rating_table tr {
+  border-bottom: 1px solid #ddd;
+  counter-increment: rowNumber;
+}
+
+tr.header, #rating_table tr:hover {
+  background-color: #f1f1f1;
+}
+
+#rating_table tr td:nth-child(1), td:nth-child(3), td:nth-child(4){
+  width: 75px;
+}
+
+#rating_table tr td:first-child::before {
+    content: counter(rowNumber);
+}
+
+#rating_table tr:nth-child(2) td:first-child::after {
+    content: ' ' url('../img/first-place-medal.png');
+}
+
+#rating_table tr:nth-child(3) td:first-child::after {
+    content: ' ' url('../img/second-place-medal.png');
+}
+
+#rating_table tr:nth-child(4) td:first-child::after {
+    content: ' ' url('../img/third-place-medal.png');
+}
+
+
+/** Бейджики **/
+table img {
+  border: none;
+  height: 50px;
+  box-shadow: none;
+  margin: 0px;
+  padding: 0px
+}
+
+/** Кнопка возврата наверх **/
+#button_go_to_top {
+  display: inline-block;
+  background-color: #37c2d7;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s;
+  z-index: 1000;
+}
+
+#button_go_to_top::after {
+  content: "\21D1";
+  color: #fff;
+  font-size: 2em;
+}
+
+#button_go_to_top:hover {
+  cursor: pointer;
+  background-color: #333;
+}
